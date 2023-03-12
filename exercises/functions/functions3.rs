@@ -2,7 +2,7 @@
 // Execute `rustlings hint functions3` or use the `hint` watch subcommand for a hint.
 
 fn main() {
-    call_me();
+    call_me(3);
 }
 
 fn call_me(num: u32) {
